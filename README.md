@@ -79,4 +79,3 @@ the srv file is the request, while the bottom part of the srv file is the respon
 
 ## Part B World:
 ![alt text](https://github.com/rajanya/comprobfall2018-hw3/blob/master/screenshots/partB_world.png)
-# Particle-Filter-for-Robot-Localization
